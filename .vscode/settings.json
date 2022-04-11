@@ -1,0 +1,17 @@
+{
+  "files.autoSave": "afterDelay",
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.fixAll": true
+  },
+  "eslint.enable": true,
+  "prettier.enable": false,
+  "editor.cursorBlinking": "smooth",
+  "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.cursorBlinking": true,
+  "editor.cursorStyle": "line",
+  "editor.cursorSmoothCaretAnimation": true,
+  "cSpell.words": ["Parens"]
+}
